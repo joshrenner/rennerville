@@ -1,0 +1,11 @@
+{
+  "name": "renner.mn",
+  "version": "0.0.0",
+  "description": "A multi-tenant, multi-model CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
